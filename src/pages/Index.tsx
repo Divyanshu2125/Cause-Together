@@ -40,21 +40,21 @@ const serviceSteps = [
 const testimonials = [
   {
     quote: "Cause Together made it so easy to donate my old books. The volunteer was friendly and the pickup was seamless.",
-    author: "Sarah J.",
+    author: "Gaurav Pandey",
     role: "Donor",
-    image: "https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-1.2.1&auto=format&fit=crop&w=256&q=80"
+    image: "https://media.licdn.com/dms/image/v2/D5603AQHHOD1CKJFNkQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1722888347212?e=1746662400&v=beta&t=W5bpSJ6IWqvba2VZsP3hMP0d1AX-ogaTgkTLcckrJO8"
   },
   {
     quote: "As a volunteer, I get to connect with amazing donors while helping distribute resources to those who need them most.",
-    author: "Michael T.",
+    author: "Utkarsh Srivastava",
     role: "Volunteer",
-    image: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-1.2.1&auto=format&fit=crop&w=256&q=80"
+    image: "https://media.licdn.com/dms/image/v2/D5603AQEE39Sl8hA2Dw/profile-displayphoto-shrink_800_800/B56ZVS6DTRHEAc-/0/1740852705286?e=1746662400&v=beta&t=YU0j-YA94lVN1awhicVtDk505jhGvYpN_gjRLf0Yx4s"
   },
   {
     quote: "The platform is intuitive and makes coordinating pickups efficient. I can easily find donations in my neighborhood.",
-    author: "Jessica R.",
+    author: "Shobhit Tripathi",
     role: "Volunteer",
-    image: "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?ixlib=rb-1.2.1&auto=format&fit=crop&w=256&q=80"
+    image: "https://media.licdn.com/dms/image/v2/D5603AQG1-zLM3LToiA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1713211114378?e=1746662400&v=beta&t=fck2Wj-sC0vvikQZ-wUsSs6RTZ1M1uf29WT3-GSs2RM"
   }
 ];
 
